@@ -64,3 +64,11 @@ Response:
 - [x] Recuperando CEST
 - [x] Recuperando Imagem
 - [ ] Recuperando Dados Fiscais
+
+## Suporte
+Para suporte basta criar uma Issue.
+
+## Se isso te ajudou...
+Considera-se a uma doação. As doações são utilizadas para pagar o plano Hobby do Heroku ($7). <br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fabioselau)
+
